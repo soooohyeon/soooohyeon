@@ -28,9 +28,7 @@ Here are some ideas to get you started:
 
 
 ![SuiHyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkSuiHyeon&show_icons=true&theme=algolia)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkSuiHyeon&layout=compact&theme=vision-friendly-dark)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkSuiHyeon&layout=compact&theme=dark)](https://github.com/ParkSuiHyeon/ParkSuiHyeon)
 
 <br>
 
