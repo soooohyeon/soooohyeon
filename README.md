@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tmddn4688@gmail.com)](mailto:dyddyd310@gmail.com) <span><a href="https://www.notion.so/SuiHyeon-518d4e40374646a4afdd269521c35819"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 
-![SuiHyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkSuiHyeon&show_icons=true&theme=algolia)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkSuiHyeon&layout=compact&theme=dark)](https://github.com/ParkSuiHyeon/ParkSuiHyeon)
+![SuiHyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=soooohyeon&show_icons=true&theme=algolia)
 
 <br>
 
