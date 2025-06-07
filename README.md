@@ -2,6 +2,9 @@
 
 ## 📢 포기하지 않고 도전하는 개발자 박수현입니다.
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/soooohyeon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fghdwnstjd&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Profile
