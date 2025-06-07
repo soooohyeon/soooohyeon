@@ -4,6 +4,8 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/soooohyeon/soooohyeon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=soooohyeon.soooohyeon)
+
 ## Profile
 👩 박수현 <br>
 👶 2000.03.10 <br>
