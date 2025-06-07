@@ -1,8 +1,9 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=77&fontAlignY=40&color=gradient)
 
 ## 📢 포기하지 않고 도전하는 개발자 박수현입니다.
+<br>
 
-## 👀 방문자 수
+<!-- 👀 방문자 수 -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=soooohyeon.soooohyeon)
 
 ## Profile
